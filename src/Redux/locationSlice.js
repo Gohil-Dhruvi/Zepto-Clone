@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
-  selectedLocation: 'Mumbai',
+  selectedLocation: 'Select Location',
 };
 
 const locationSlice = createSlice({
